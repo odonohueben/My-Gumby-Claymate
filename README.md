@@ -202,7 +202,7 @@ $ `claymate install`
 
 *Congratulations*, You now have Claymate setup with the Gumby Framework.
 
-I might suggest checking out Cory Simmons YouTube Chanel for tutorials on The Gumby Framework and in particular Claymate [Here](https://www.youtube.com/watch?v=VgE7Ztc05sQ).He will get you up to speed and demonstrate the facets to get your build started.
+I might suggest checking out Cory Simmons YouTube Chanel for tutorials on The Gumby Framework and in particular Claymate [Here](https://www.youtube.com/watch?v=VgE7Ztc05sQ). He will get you up to speed and demonstrate the facets to get your build started.
 
 
 
