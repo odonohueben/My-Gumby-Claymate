@@ -80,7 +80,7 @@ In a new Terminal window run the following command
 
 $ `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
-* Hit Return
+* Press Return
 * Enter your password
 
 When the install has completed, run the following commands
